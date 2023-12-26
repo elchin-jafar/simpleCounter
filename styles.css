@@ -1,0 +1,7 @@
+body {
+  display: grid;
+  place-items: center;
+}
+body p {
+  font-size: 12rem;
+}/*# sourceMappingURL=styles.css.map */
